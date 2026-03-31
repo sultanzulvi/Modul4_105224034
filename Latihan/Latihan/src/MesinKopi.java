@@ -26,5 +26,5 @@ public class MesinKopi {
         this.bijiKopi = 0;
         this.air = 0;
         this.susu = 0;
-    }
+    } //No. 4
 }
